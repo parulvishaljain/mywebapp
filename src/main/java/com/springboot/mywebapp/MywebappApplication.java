@@ -16,7 +16,7 @@ public class MywebappApplication {
 
 	@PostConstruct
 	public void init() {
-		logger.info("MywebappApplication Started...");
+		logger.info("MywebappApplication Now Started...");
 	}
 
 	public static void main(String[] args) {
